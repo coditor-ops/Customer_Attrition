@@ -17,7 +17,7 @@
 *   **Structured Profiler**: Dynamic form sections grouping 34 unique employee metrics (demographics, compensation, job details, work history, and work-life balance).
 *   **Interactive Analytics & Confidence Gauge**: Dynamic gauge indicator powered by Plotly reflecting prediction risk probability and safety scores.
 *   **Explainable AI (Feature Importance)**: Visualizes key risk drivers for supported models to explain exactly why an employee is classified as a flight risk.
-*   **Performance Testing Suite**: Local command-line evaluation tool (`evaluate.py`) for generating detailed performance reports on demand.
+
 
 ---
 
@@ -47,11 +47,10 @@ Evaluated on the IBM HR Analytics dataset ($N=1,470$ employees):
 ## 📁 Project Structure
 
 ```text
-├── .ipynb_checkpoints/           # Jupyter notebook checkpoints
+
 ├── Capstone_Classification.ipynb # Initial modeling and training notebook
 ├── WA_Fn-UseC_-HR-Employee-Attrition.csv # Dataset
 ├── app.py                        # Streamlit web application entry point
-├── evaluate.py                   # Script for benchmarking saved models
 ├── preprocessor.pkl              # Saved sklearn transformation pipeline
 ├── logistic_model.pkl            # Pre-trained Logistic Regression model
 ├── svm_model.pkl                 # Pre-trained Support Vector Machine model
@@ -79,13 +78,7 @@ Make sure you have python 3.9+ installed. Run:
 pip install -r requirements.txt
 ```
 
-### 3. Verify Model Performance
-To run baseline evaluations and view detailed metrics for all saved models:
-```bash
-python evaluate.py
-```
-
-### 4. Launch the Web App
+### 3. Launch the Web App
 Run the interactive dashboard:
 ```bash
 streamlit run app.py
