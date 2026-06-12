@@ -96,3 +96,17 @@ A new tab will automatically open in your default browser at `http://localhost:8
 
 ## 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have ideas for model improvements, additional features, or UI adjustments.
+
+---
+
+## 👨‍💻 Authors
+
+**Pratush Prasad**
+* 📧 Email: [pratushprasad.5398@gmail.com](mailto:pratushprasad.5398@gmail.com)
+* 💼 LinkedIn: [pratush-prasad-](https://www.linkedin.com/in/pratush-prasad-)
+* 📸 Instagram: [@pratushprasad_](https://instagram.com/pratushprasad_)
+
+**Nirwana Dubey**
+* 📧 Email: [nirvana4431@gmail.com](mailto:nirvana4431@gmail.com)
+* 💼 LinkedIn: [nirvana-dubey-5ab254378](https://www.linkedin.com/in/nirvana-dubey-5ab254378/)
+* 📸 Instagram: [@iam_nirvandubey](https://instagram.com/iam_nirvandubey)

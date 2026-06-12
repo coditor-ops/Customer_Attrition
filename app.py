@@ -839,6 +839,26 @@ elif selected_nav == "about":
         </div>
         ''', unsafe_allow_html=True)
 
+    st.markdown('''
+    <div class="glass-card" style="margin-top: 20px;">
+    <h3 style="font-family:'Syne',sans-serif;color:#f1f5f9">👨‍💻 Project Authors</h3>
+    <div style="display: flex; gap: 40px; flex-wrap: wrap; margin-top: 15px;">
+        <div style="color:#94a3b8; line-height: 1.8;">
+            <b style="color:#f1f5f9; font-size: 1.1rem;">Pratush Prasad</b><br>
+            📧 <a href="mailto:pratushprasad.5398@gmail.com" style="color:#3b82f6; text-decoration: none;">pratushprasad.5398@gmail.com</a><br>
+            💼 <a href="https://www.linkedin.com/in/pratush-prasad-" target="_blank" style="color:#3b82f6; text-decoration: none;">LinkedIn Profile</a><br>
+            📸 <a href="https://instagram.com/pratushprasad_" target="_blank" style="color:#3b82f6; text-decoration: none;">@pratushprasad_</a>
+        </div>
+        <div style="color:#94a3b8; line-height: 1.8;">
+            <b style="color:#f1f5f9; font-size: 1.1rem;">Nirwana Dubey</b><br>
+            📧 <a href="mailto:nirvana4431@gmail.com" style="color:#06b6d4; text-decoration: none;">nirvana4431@gmail.com</a><br>
+            💼 <a href="https://www.linkedin.com/in/nirvana-dubey-5ab254378/" target="_blank" style="color:#06b6d4; text-decoration: none;">LinkedIn Profile</a><br>
+            📸 <a href="https://instagram.com/iam_nirvandubey" target="_blank" style="color:#06b6d4; text-decoration: none;">@iam_nirvandubey</a>
+        </div>
+    </div>
+    </div>
+    ''', unsafe_allow_html=True)
+
 # ─────────────────────────────────────────────
 # FOOTER
 # ─────────────────────────────────────────────
