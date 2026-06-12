@@ -1,5 +1,7 @@
 # AttritionAI · AI-Powered HR Intelligence Platform
 
+🔗 **Live Demo:** [https://customerattrition.streamlit.app/](https://customerattrition.streamlit.app/)
+
 🧠 **AttritionAI** is an advanced Machine Learning web application built to predict employee attrition risk and provide actionable workforce intelligence. Using the industry-standard **IBM HR Analytics Dataset**, this platform integrates multiple pre-trained machine learning classifiers with a premium, responsive dark glassmorphism dashboard.
 
 ---
